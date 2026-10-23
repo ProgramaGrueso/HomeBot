@@ -1,0 +1,6 @@
+# Dependencias de HomeBot (instalar.ps1 las instala solas en un entorno propio)
+faster-whisper>=1.0      # voz -> texto, local y gratis
+sounddevice>=0.4         # grabar el micrófono
+numpy>=1.26
+keyboard>=0.13           # atajos globales (Windows + Y)
+edge-tts>=6.1            # voz del bot (voces de Edge, gratis, necesita internet)
